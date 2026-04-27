@@ -1,10 +1,10 @@
 # Project Title
 
-A sample README.md for learning git
+FA 26B DSE course git intro
 
 ## Description
 
-A more detailed explanation of what the project does, its features, and the problems it aims to solve. This section can include a list of key features or a background subsection.
+A more detailed explanation of what the project does, its features. This section can include a list of key features or a background subsection.
 
 ## Getting Started
 
