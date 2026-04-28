@@ -1,6 +1,6 @@
 # Project Title
 
-FA 26B DSE course git intro
+FA 26B DSE course git intro edited on GitHub
 
 ## Description
 
